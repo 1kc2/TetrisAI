@@ -16,7 +16,7 @@ To calculate the score, the auto-player uses parameters such as the  height of e
 
 The game is implemented to work using ```tkinter```, ```pygame```, and can also be displayed on the command line in a terminal window.
 
-### To run the game with the autoplayer, execute
+### To run the game with the autoplayer, execute:
 
 ```python3 visual.py``` if you wish to launch the game using ```tkinter```
 
@@ -24,7 +24,7 @@ The game is implemented to work using ```tkinter```, ```pygame```, and can also 
 
 ```python3 cmdline.py``` if you wish to launch the on the command line.
 
-### To play the game yourself, execute
+### To play the game yourself, execute:
 
 ```python3 visual.py -m``` if you wish to launch the game using ```tkinter```
 
