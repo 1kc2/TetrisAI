@@ -13,3 +13,19 @@ The auto-player algorithm is a very simple genetic algorithm. It does the follow
 To calculate the score, the auto-player uses parameters such as the  height of each column, the number of inaccesible holes a move would create, the jaggedness/variation between column heights and the number of lines a move would clear. Naturally, each paramter is assigned a different weight.
 
 # Usage
+
+The game is implemented to work using ```tkinter```, ```pygame```, and can also be displayed on the command line in a terminal window.
+
+### To run the game with the autoplayer, execute
+
+```python3 visual.py``` if you wish to launch the game using ```tkinter```
+
+```python3 visual-pygame.py``` if you wish to launch the game using ```pygame```
+
+```python3 cmdline.py``` if you wish to launch the on the command line.
+
+### To play the game yourself, execute
+
+```python3 visual.py -m``` if you wish to launch the game using ```tkinter```
+```python3 visual-pygame.py -m``` if you wish to launch the game using ```pygame```
+```python3 cmdline.py -m``` if you wish to launch the on the command line.
