@@ -1,4 +1,4 @@
-# Tetris and an Autoplayer
+# Tetris + Autoplayer
 
 A reenvisioned version of Alexey Pajitnov's orignal Tetris game with a built-in autoplayer. Tetris has been released for virtually every computer and electronic gaming system, and it is often revered as a classic. Though numerous sequels have been spawned, Tetris games almost always have the same play mechanics: differently shaped blocks drop at varying speeds, and, as the blocks descend, the player must rotate and arrange them to create an uninterrupted horizontal row on the screen. When the player forms one or more solid rows, the completed rows disappear. The goal of the game is to prevent the blocks from stacking up to the top of the screen for as long as possible. This version of the game essentially uses the same mechanics, but comes with an auto-player.
 
@@ -27,5 +27,7 @@ The game is implemented to work using ```tkinter```, ```pygame```, and can also 
 ### To play the game yourself, execute
 
 ```python3 visual.py -m``` if you wish to launch the game using ```tkinter```
+
 ```python3 visual-pygame.py -m``` if you wish to launch the game using ```pygame```
+
 ```python3 cmdline.py -m``` if you wish to launch the on the command line.
