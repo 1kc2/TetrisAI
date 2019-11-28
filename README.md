@@ -30,4 +30,4 @@ The game is implemented to work using ```tkinter```, ```pygame```, and can also 
 
 ```python3 visual-pygame.py -m``` if you wish to launch the game using ```pygame```
 
-```python3 cmdline.py -m``` if you wish to launch the on the command line.
+```python3 cmdline.py -m``` if you wish to launch the game on the command line.
